@@ -132,9 +132,13 @@ a {
     list-style-type: none;
 }
 
-.menu_link {
+.menu_link{
     color: #1a202c;
     font-size: 18px;
+}
+
+.menu_list {
+    height: 100%;
     margin: 8px 0;
     padding: 0 0 4px;
 }
